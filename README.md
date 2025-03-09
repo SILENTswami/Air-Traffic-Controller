@@ -1,12 +1,9 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # 
 
 ---
 
-# go through all the files and make the best readme file
+#  readme file
 
-Here's a comprehensive README.md for your Air Traffic Control System project:
 
 ```markdown
 # Air Traffic Control System Simulator
@@ -68,26 +65,4 @@ gcc cleanup.c -o cleanup
 
 > **Note**: Developed for Ubuntu 22.04 LTS with strict POSIX compliance
 ```
-
-This README:
-
-- Maintains character count < 350 in key sections
-- Highlights complexity through implementation specifics
-- Provides clear execution instructions
-- Uses tables/formatting for better readability
-- Emphasizes technical depth while remaining concise
-
-Would you like me to emphasize any particular aspect or add specific compliance details from the assignment PDF?
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53722385/8ee4b23f-8e3b-4f48-b56a-45e4f5720b31/53114OS-Assignment-2-Air-Traffic-Control-System-1.pdf
-
-[^2]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53722385/5081ca54-f691-4752-b7a9-af3dd848491c/airtrafficcontroller.c
-
-[^3]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53722385/cd013a99-c0d4-4bd5-a612-ee44b161ee23/airport.c
-
-[^4]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53722385/3484628d-b9e5-416a-ace1-245ec0b50fc0/plane.c
-
-[^5]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/53722385/57dc0709-6ad8-467d-a8ac-216fe0464dc8/cleanup.c
 
